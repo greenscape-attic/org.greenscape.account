@@ -1,0 +1,5 @@
+Bundle-Version: 0.1.0
+Export-Package: org.greenscape.account.model
+-buildpath: org.greenscape.persistence;version=latest,\
+	osgi.compendium
+-sources: false
