@@ -1,7 +1,7 @@
-org.greenscape.account.model
+org.greenscape.account
 ============================
 
-Account Model
+Open Account
 
 This project consists of:
 PermissionModel
